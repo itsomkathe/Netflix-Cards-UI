@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Netflix-Cards-UI/precache-manifest.8544017e334078fdd7067ec9dfd20558.js"
+  "/Netflix-Cards-UI/precache-manifest.464ed63f5f25b3003012caf7d04c850f.js"
 );
 
 self.addEventListener('message', (event) => {

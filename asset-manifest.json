@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Netflix-Cards-UI/static/css/main.c0a8b9c5.chunk.css",
+    "main.css": "/Netflix-Cards-UI/static/css/main.3accf77b.chunk.css",
     "main.js": "/Netflix-Cards-UI/static/js/main.236789a8.chunk.js",
     "main.js.map": "/Netflix-Cards-UI/static/js/main.236789a8.chunk.js.map",
     "runtime-main.js": "/Netflix-Cards-UI/static/js/runtime-main.a30d9fa9.js",
@@ -8,15 +8,15 @@
     "static/js/2.6b391706.chunk.js": "/Netflix-Cards-UI/static/js/2.6b391706.chunk.js",
     "static/js/2.6b391706.chunk.js.map": "/Netflix-Cards-UI/static/js/2.6b391706.chunk.js.map",
     "index.html": "/Netflix-Cards-UI/index.html",
-    "precache-manifest.8544017e334078fdd7067ec9dfd20558.js": "/Netflix-Cards-UI/precache-manifest.8544017e334078fdd7067ec9dfd20558.js",
+    "precache-manifest.464ed63f5f25b3003012caf7d04c850f.js": "/Netflix-Cards-UI/precache-manifest.464ed63f5f25b3003012caf7d04c850f.js",
     "service-worker.js": "/Netflix-Cards-UI/service-worker.js",
-    "static/css/main.c0a8b9c5.chunk.css.map": "/Netflix-Cards-UI/static/css/main.c0a8b9c5.chunk.css.map",
+    "static/css/main.3accf77b.chunk.css.map": "/Netflix-Cards-UI/static/css/main.3accf77b.chunk.css.map",
     "static/js/2.6b391706.chunk.js.LICENSE.txt": "/Netflix-Cards-UI/static/js/2.6b391706.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a30d9fa9.js",
     "static/js/2.6b391706.chunk.js",
-    "static/css/main.c0a8b9c5.chunk.css",
+    "static/css/main.3accf77b.chunk.css",
     "static/js/main.236789a8.chunk.js"
   ]
 }

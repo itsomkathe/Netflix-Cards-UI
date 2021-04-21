@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5adfc904a836f0c907b2248e857cc6c6",
+    "revision": "37e37578afa8bdc401c85e794fa9897a",
     "url": "/Netflix-Cards-UI/index.html"
   },
   {
-    "revision": "3d343d5ecee01c7fe5d6",
-    "url": "/Netflix-Cards-UI/static/css/main.c0a8b9c5.chunk.css"
+    "revision": "a585d61599479f1e9a6e",
+    "url": "/Netflix-Cards-UI/static/css/main.3accf77b.chunk.css"
   },
   {
     "revision": "77f0c01f2a8a2fc49165",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Netflix-Cards-UI/static/js/2.6b391706.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d343d5ecee01c7fe5d6",
+    "revision": "a585d61599479f1e9a6e",
     "url": "/Netflix-Cards-UI/static/js/main.236789a8.chunk.js"
   },
   {
